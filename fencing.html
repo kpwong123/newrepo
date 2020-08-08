@@ -10,15 +10,15 @@
             margin: 0;
             padding: 0;
             font-family: "Cardo", serif;
-            background-color:#f0f0f0;
+            background-color: #f0f0f0;
         }
 
         header {
             font-family: "Oswald", sans-serif;
             color: black;
             background-image: url("images/headerpic2.png");
-            background-repeat:no-repeat;
-            background-size:cover;
+            background-repeat: no-repeat;
+            background-size: cover;
             background-position: 50% 25%;
             font-size: 25px;
             margin: 0px;
@@ -30,8 +30,17 @@
             margin: 0px;
         }
 
+        .fencingicon {
+            position: relative;
+            top: 25px;
+            width: 70px;
+            height: 50px;
+            margin-left: 30px;
+        }
+
+
         .headerdescription {
-            color:#242424;
+            color: #242424;
             font-size: 20px;
             padding: 0;
             margin: 0;
@@ -76,6 +85,10 @@
             color: lightblue;
         }
 
+        .fencingcombat {
+            width: 100%;
+        }
+
         footer {
             background-color: lightblue;
             padding: 20px;
@@ -89,8 +102,8 @@
 <body>
     <header>
         <div>
-            <h1 class="bigheader">Fencing Info<img src="images/fencingicon.png" alt="fencingicon"
-                style="position:relative;top:25px;width:70px;height:50px;margin-left: 30px;"></h1>
+            <h1 class="bigheader">Fencing Info<img class="fencingicon" src="images/fencingicon.png" alt="fencingicon">
+            </h1>
             <p class="headerdescription">Everything About Fencing.</p>
         </div>
     </header>
@@ -127,7 +140,7 @@
             </ul>
             </p>
         </div>
-        <img src="images/7730599606_83f03446e3_k-e1504547742297.jpg" alt="fencingcombat" style="width:100%;">
+        <img class="fencingcombat" src="images/fencingcombat.jpg" alt="fencingcombat">
     </article>
     <footer>Contact info:&nbsp;&nbsp;&nbsp;&nbsp; Tel: 12345678 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a
             href="mailto:fencinginfo1456@gmail.com">fencinginfo1456@gmail.com</a></footer>
