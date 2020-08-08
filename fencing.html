@@ -10,16 +10,31 @@
             margin: 0;
             padding: 0;
             font-family: "Cardo", serif;
+            background-color:#f0f0f0;
         }
 
         header {
             font-family: "Oswald", sans-serif;
-            color: white;
-            background-color: lightblue;
-            font-size: 20px;
-            margin: 0;
-            padding: 4px;
+            color: black;
+            background-image: url("images/headerpic2.png");
+            background-repeat:no-repeat;
+            background-size:cover;
+            background-position: 50% 25%;
+            font-size: 25px;
+            margin: 0px;
+            padding: 40px;
             padding-left: 20px;
+        }
+
+        .bigheader {
+            margin: 0px;
+        }
+
+        .headerdescription {
+            color:#242424;
+            font-size: 20px;
+            padding: 0;
+            margin: 0;
         }
 
         article {
@@ -53,6 +68,7 @@
             padding: 15px;
             text-decoration: none;
             color: white;
+            font-weight: normal
         }
 
         nav li a:hover {
@@ -72,14 +88,18 @@
 
 <body>
     <header>
-        <h1><b>Fencing Info</b><img src="images/fencingicon.jpg" alt="fencingicon"
-                style="width:50px;height:50px;margin-left: 50px;"></h1>
+        <div>
+            <h1 class="bigheader">Fencing Info<img src="images/fencingicon.png" alt="fencingicon"
+                style="position:relative;top:25px;width:70px;height:50px;margin-left: 30px;"></h1>
+            <p class="headerdescription">Everything About Fencing.</p>
+        </div>
     </header>
     <nav>
         <div>
             <ul>
                 <li><a href="">Home</a></li>
-                <li><a href="">About</a></li>
+                <li><a href="">Weapons</a></li>
+                <li><a href="">Equipment</a></li>
                 <li><a href="">Fencing Academies</a></li>
                 <li><a href="">Contact Us</a></li>
             </ul>
@@ -88,31 +108,29 @@
     <article>
         <div>
             <p>This is a page with all the information you need about fencing.</p>
-            <h2>Why Learn Fencing?</h2>
-            <p>Lorem ipsum dolor sit amet consectetur
-                adipisicing elit. Architecto magni expedita
-                excepturi accusamus. Voluptates placeat quas
-                architecto adipisci fugiat recusandae a odio
-                voluptatem, laudantium, soluta, repellat
-                ducimus error debitis laborum.</p>
+            <h2>Why Should You Learn Fencing?</h2>
+            <p>Fencing is a sport that can train your agility and patience. The sport allows you to gain mental and
+                physical strength through exciting combats. </p>
             <h2>What can you find in this site?</h2>
-            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam aspernatur adipisci facere fuga? Non
-                sed rerum, accusamus minima sequi, dicta, esse inventore distinctio expedita quod ex maxime quas soluta
-                harum?</p>
-            <h2>Fencing is a perfect sport during COVID-19 Outbreak!</h2>
+            <p> A fencer or not, this site provides all the necessary information
+                about this elegant sport. You will find facts about the essential equiment, fencing techniques and links
+                to local fencing academies in this website. Three types of weapons,
+                namely Sabre, Epee and Foil, will also be introduced in the 'Weapons' section.</p>
+            <h2>Fencing is a perfect sport during COVID-19!</h2>
             <p>
-                You basically won't get infected by any means while you are playing fencing! <br>
-                Three reaons for playing fencing during the outbreak:
-                <ul>
-                    <li>You wear gloves - Feel free to shake hands with your opponent</li>
-                    <li>You wear a mask - Hard for viruses to get through</li>
-                    <li>Stab anyone who gets close to you</li>
-                </ul>
+                You basically won't get infected by any means when you are playing fencing! <br>
+                Three reasons for playing fencing during the outbreak:
+            <ul>
+                <li>You wear gloves - Feel free to shake hands with your opponent</li>
+                <li>You wear a mask - Hard for viruses to get through</li>
+                <li>Stab anyone who gets close to you</li>
+            </ul>
             </p>
         </div>
         <img src="images/7730599606_83f03446e3_k-e1504547742297.jpg" alt="fencingcombat" style="width:100%;">
     </article>
-    <footer>Contract info:&nbsp;&nbsp;&nbsp;&nbsp; Tel:12345678 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Email: <a href="mailto:fencinginfo1456@gmail.com">fencinginfo1456@gmail.com</a></footer>
+    <footer>Contact info:&nbsp;&nbsp;&nbsp;&nbsp; Tel:12345678 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a
+            href="mailto:fencinginfo1456@gmail.com">fencinginfo1456@gmail.com</a></footer>
 </body>
 
 </html>
