@@ -47,6 +47,7 @@ article h2 {
 
 article p {
     margin: 20px;
+    line-height: 30px;
 }
 
 nav ul {
@@ -80,10 +81,32 @@ nav li a:hover {
     width: 100%;
 }
 
+.weapontypes {
+    display: block;
+    clear: both;
+}
+
+.weapon {
+    width: 50%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+    max-width: 300px;
+}
+
+.combat {
+    width: 50%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+    max-width: 300px;
+}
+
 footer {
     background-color: lightblue;
     padding: 20px;
     color: white;
     text-align: center;
     /*bottom white space due to not enough content*/
+    clear: both;
 }
