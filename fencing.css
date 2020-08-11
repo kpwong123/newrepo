@@ -82,24 +82,31 @@ nav li a:hover {
 }
 
 .weapontypes {
-    display: block;
     clear: both;
 }
 
 .weapon {
-    width: 50%;
-    float: left;
+    width: 49%;
     padding: 10px;
     box-sizing: border-box;
     max-width: 300px;
+    vertical-align: bottom;
 }
 
 .combat {
-    width: 50%;
-    float: left;
+    width: 49%;
     padding: 10px;
     box-sizing: border-box;
     max-width: 300px;
+    vertical-align: bottom;
+}
+
+.weaponimages {
+    border-style: dotted;
+    border-color: darkgrey;
+    border-radius: 10px;
+    margin: 20px;
+    display: inline-block;
 }
 
 footer {
