@@ -42,7 +42,7 @@ df = pd.read_csv("pokemon_data.csv")
 
 # for index, row in df.iterrows():
 #     print(index, row["Name"])
-# #print each index with corresponding specific row
+# #print each row with corresponding specific column
 
 # print(df.loc[df["Type 1"] == "Fire"])
 # #print rows with specific value of a specific column
@@ -96,7 +96,7 @@ df = pd.read_csv("pokemon_data.csv")
 # search = df.loc[(df["Type 1"] == "Grass") & (df["Type 2"] == "Poison")]
 # print(search)
 # search.to_csv("newdata.csv")
-# #search for multiple valeus in specific columns (use "&" as "and", use "|" as "or")
+# #filter multiple values in specific columns (use "&" as "and", use "|" as "or")
 # # , and then create and modify a new file
 
 # search = df.loc[(df["Type 1"] == "Grass") & (df["Type 2"] == "Poison")]
@@ -104,7 +104,8 @@ df = pd.read_csv("pokemon_data.csv")
 # print(search)
 # #add new index to new list
 
-search = df.loc[(df["Type 1"] == "Grass") & (df["Type 2"] == "Poison")]
-search.reset_index(drop = True, inplace = True)
-print(search)
-#add new index, drop old index and replace dataframe directly
+# search = df.loc[(df["Type 1"] == "Grass") & (df["Type 2"] == "Poison")]
+# search.reset_index(drop = True, inplace = True)
+# print(search)
+# #add new index, drop old index and replace dataframe directly
+
