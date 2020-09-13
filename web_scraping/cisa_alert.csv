@@ -1,0 +1,335 @@
+,Year of Alert,Code,Title of Alert
+0,2004,TA04-356A,Exploitation of phpBB highlight parameter vulnerability
+1,2004,SA04-336A,Update for Microsoft Internet Explorer
+2,2004,TA04-336A,Update Available for Microsoft Internet Explorer Vulnerability
+3,2004,TA04-316A,Cisco IOS Input Queue Vulnerability
+4,2004,SA04-315A,Vulnerability in Microsoft Internet Explorer
+5,2004,TA04-315A,Buffer Overflow in Microsoft Internet Explorer
+6,2004,TA04-293A,Multiple Vulnerabilities in Microsoft Internet Explorer
+7,2004,SA04-286A,"Multiple Vulnerabilities in Microsoft Windows, Internet Explorer, and Excel"
+8,2004,TA04-261A,Multiple Vulnerabilities in Mozilla Products
+9,2004,SA04-261A,Multiple Vulnerabilities in Mozilla Products
+10,2004,TA04-260A,Microsoft Windows JPEG component buffer overflow
+11,2004,SA04-258A,Vulnerability in Microsoft Image Processing Component
+12,2004,TA04-247A,Vulnerabilities in MIT Kerberos 5
+13,2004,TA04-245A,Multiple Vulnerabilities in Oracle Products
+14,2004,SA04-243A,Security Improvements in Windows XP Service Pack 2
+15,2004,TA04-217A,Multiple Vulnerabilities in libpng
+16,2004,SA04-212A,Multiple Vulnerabilities in Systems Running Microsoft Windows
+17,2004,TA04-212A,Critical Vulnerabilities in Microsoft Windows
+18,2004,SA04-208A,New Variant of MyDoom Virus
+19,2004,TA04-196A,Multiple Vulnerabilities in Microsoft Windows Components and Outlook Express
+20,2004,SA04-196A,Multiple Vulnerabilities in Microsoft Windows Components and Outlook Express
+21,2004,SA04-184A,Important Internet Explorer Update Available
+22,2004,TA04-184A,Internet Explorer Update to Disable ADODB.Stream ActiveX Control
+23,2004,TA04-174A,Multiple Vulnerabilities in ISC DHCP 3
+24,2004,SA04-163A,Cross-Domain Vulnerability in Internet Explorer
+25,2004,TA04-163A,Cross-Domain Redirect Vulnerability in Internet Explorer
+26,2004,TA04-160A,SQL Injection Vulnerabilities in Oracle E-Business Suite
+27,2004,TA04-147A,CVS Heap Overflow Vulnerability
+28,2004,TA04-111A,Vulnerabilities in TCP
+29,2004,TA04-111B,Cisco IOS SNMP Message Handling Vulnerability
+30,2005,TA05-362A,Microsoft Windows Metafile Handling Buffer Overflow
+31,2005,TA05-347A,Microsoft Internet Explorer Vulnerabilities
+32,2005,SA05-347A,Microsoft Internet Explorer Vulnerabilities
+33,2005,TA05-312A,Microsoft Windows Image Processing Vulnerabilities
+34,2005,SA05-312A,Microsoft Windows Image Processing Vulnerabilities
+35,2005,TA05-292A,Oracle Products Contain Multiple Vulnerabilities
+36,2005,TA05-291A,Snort Back Orifice Preprocessor Buffer Overflow
+37,2005,TA05-284A,"Microsoft Windows, Internet Explorer, and Exchange Server Vulnerabilities"
+38,2005,SA05-284A,"Microsoft Windows, Internet Explorer, and Windows Media Technology Vulnerabilities"
+39,2005,TA05-229A,Apple Mac Products are Affected by Multiple Vulnerabilities
+40,2005,SA05-229A,Apple Mac OS X Multiple Vulnerabilities
+41,2005,TA05-224A,VERITAS Backup Exec Uses Hard-Coded Authentication Credentials
+42,2005,SA05-221A,Microsoft Windows and Internet Explorer Vulnerabilities
+43,2005,TA05-221A,Microsoft Windows and Internet Explorer Vulnerabilities
+44,2005,TA05-210A,Cisco IOS IPv6 Vulnerability
+45,2005,TA05-194A,Oracle Products Contain Multiple Vulnerabilities
+46,2005,TA05-193A,"Microsoft Windows, Internet Explorer, and Word Vulnerabilities"
+47,2005,SA05-193A,"Microsoft Windows, Internet Explorer, and Word Vulnerabilities"
+48,2005,TA05-189A,Targeted Trojan Email Attacks
+49,2005,TA05-180A,VERITAS Backup Exec Software is actively being exploited
+50,2005,TA05-165A,Microsoft Windows and Internet Explorer Vulnerabilities
+51,2005,SA05-165A,Microsoft Windows and Internet Explorer Vulnerabilities
+52,2005,TA05-136A,Apple Mac OS X is affected by multiple vulnerabilities
+53,2005,SA05-136A,Apple Mac OS X is affected by multiple vulnerabilities
+54,2005,TA05-117A,Oracle Products Contain Multiple Vulnerabilities
+55,2005,SA05-102A,Multiple Vulnerabilities in Microsoft Windows Components
+56,2005,TA05-102A,Multiple Vulnerabilities in Microsoft Windows Components
+57,2005,TA05-039A,Multiple Vulnerabilities in Microsoft Windows Components
+58,2005,SA05-039A,Multiple Vulnerabilities in Microsoft Windows Components
+59,2005,TA05-026A,Multiple Denial of Service Vulnerablities in Cisco IOS
+60,2006,TA06-354A,Mozilla Addresses Multiple Vulnerabilities
+61,2006,SA06-354A,Mozilla Addresses Multiple Vulnerabilities
+62,2006,TA06-346A,Microsoft Updates for Multiple Vulnerabilities
+63,2006,SA06-346A,Vulnerabilities in Microsoft Products
+64,2006,TA06-333A,Apple Releases Security Update to Address Multiple Vulnerabilities
+65,2006,SA06-333A,Apple Releases Security Update to Address Multiple Vulnerabilities
+66,2006,SA06-318A,"Microsoft Security Updates for Windows, Internet Explorer, and Adobe Flash"
+67,2006,TA06-318A,"Microsoft Security Updates for Windows, Internet Explorer, and Adobe Flash"
+68,2006,SA06-312A,Mozilla Products Contain Multiple Vulnerabilities
+69,2006,TA06-312A,Mozilla Updates for Multiple Vulnerabilities
+70,2006,TA06-291A,Oracle Updates for Multiple Vulnerabilities
+71,2006,TA06-283A,"Microsoft Updates for Vulnerabilities in Windows, Office, and Internet Explorer"
+72,2006,SA06-283A,"Microsoft Updates for Vulnerabilities in Windows, Office, and Internet Explorer"
+73,2006,SA06-275A,Multiple Vulnerabilities in Apple and Adobe Products
+74,2006,TA06-275A,Multiple Vulnerabilities in Apple and Adobe Products
+75,2006,TA06-270A,Microsoft Internet Explorer WebViewFolderIcon ActiveX Vulnerability
+76,2006,SA06-270A,Microsoft Internet Explorer ActiveX Vulnerability
+77,2006,TA06-262A,Microsoft Internet Explorer VML Buffer Overflow
+78,2006,SA06-262A,Microsoft Internet Explorer VML Vulnerability
+79,2006,SA06-258A,Microsoft Internet Explorer ActiveX Vulnerability
+80,2006,SA06-256A,Apple QuickTime Vulnerabilties
+81,2006,TA06-256A,Apple QuickTime Vulnerabilties
+82,2006,SA06-255A,Microsoft Windows and Publisher Vulnerabilities
+83,2006,TA06-255A,Microsoft Windows and Publisher Vulnerabilities
+84,2006,SA06-250A,Microsoft Word Vulnerability
+85,2006,TA06-220A,Microsoft Products Contain Multiple Vulnerabilities
+86,2006,SA06-220A,Microsoft Products Contain Multiple Vulnerabilities
+87,2006,SA06-214A,Apple Mac Products Affected by Multiple Vulnerabilities
+88,2006,TA06-214A,Apple Mac Products Affected by Multiple Vulnerabilities
+89,2006,SA06-208A,Mozilla Products Contain Multiple Vulnerabilities
+90,2007,SA07-355A,Adobe Updates for Multiple Vulnerabilities
+91,2007,TA07-355A,Adobe Updates for Multiple Vulnerabilities
+92,2007,SA07-352A,Apple Updates for Multiple Vulnerabilities
+93,2007,TA07-352A,Apple Updates for Multiple Vulnerabilities
+94,2007,SA07-345A,Microsoft Updates for Multiple Vulnerabilities
+95,2007,TA07-345A,Microsoft Updates for Multiple Vulnerabilities
+96,2007,SA07-334A,Apple QuickTime RTSP Vulnerability
+97,2007,TA07-334A,Apple QuickTime RTSP Buffer Overflow
+98,2007,TA07-319A,Apple Updates for Multiple Vulnerabilities
+99,2007,SA07-319A,Apple Updates for Multiple Vulnerabilities
+100,2007,TA07-317A,Microsoft Updates for Multiple Vulnerabilities
+101,2007,SA07-317A,Microsoft Updates for Multiple Vulnerabilities
+102,2007,SA07-310A,Apple QuickTime Updates for Multiple Vulnerabilities
+103,2007,TA07-310A,Apple QuickTime Updates for Multiple Vulnerabilities
+104,2007,SA07-303A,Federal Trade Commission Reports Spoofed Email
+105,2007,TA07-297A,RealNetworks RealPlayer ActiveX Playlist Buffer Overflow
+106,2007,TA07-297B,Adobe Updates for Microsoft Windows URI Vulnerability
+107,2007,SA07-297B,Adobe Updates for Microsoft Windows Vulnerability
+108,2007,SA07-297A,RealNetworks RealPlayer ActiveX Playlist Buffer Overflow
+109,2007,TA07-290A,Oracle Updates for Multiple Vulnerabilities
+110,2007,SA07-282A,Microsoft Updates for Multiple Vulnerabilities
+111,2007,TA07-282A,Microsoft Updates for Multiple Vulnerabilities
+112,2007,TA07-254A,Microsoft Updates for Multiple Vulnerabilities
+113,2007,SA07-254A,Microsoft Updates for Multiple Vulnerabilities
+114,2007,TA07-235A,Trend Micro ServerProtect Contains Multiple Vulnerabilities
+115,2007,TA07-226A,Microsoft Updates for Multiple Vulnerabilities
+116,2007,SA07-226A,Microsoft Updates for Multiple Vulnerabilities
+117,2007,TA07-200A,Oracle Releases Patches for Multiple Vulnerabilities
+118,2007,TA07-199A,Mozilla Updates for Multiple Vulnerabilities
+119,2007,SA07-199A,Mozilla Updates for Multiple Vulnerabilities
+120,2008,TA08-352A ,Microsoft Internet Explorer Data Binding Vulnerability
+121,2008,TA08-350A ,Apple Updates for Multiple Vulnerabilities
+122,2008,TA08-344A ,Microsoft Updates for Multiple Vulnerabilities
+123,2008,TA08-340A ,Sun Java Updates for Multiple Vulnerabilities
+124,2008,TA08-319A ,Mozilla Updates for Multiple Vulnerabilities
+125,2009,TA09-343A ,Adobe Flash Vulnerabilities Affect Flash Player and Adobe AIR
+126,2009,TA09-342A ,Microsoft Updates for Multiple Vulnerabilities
+127,2009,TA09-314A ,Microsoft Updates for Multiple Vulnerabilities
+128,2009,TA09-294A ,Oracle Updates for Multiple Vulnerabilities
+129,2009,TA09-286B ,Adobe Reader and Acrobat Vulnerabilities
+130,2009,TA09-286A ,Microsoft Updates for Multiple Vulnerabilities
+131,2009,TA09-251A ,Microsoft Updates for Multiple Vulnerabilities
+132,2009,TA09-223A ,Microsoft Updates for Multiple Vulnerabilities
+133,2009,TA09-218A ,Apple Updates for Multiple Vulnerabilities
+134,2009,TA09-209A ,"Microsoft Windows, Internet Explorer, and Active Template Library (ATL) Vulnerabilities"
+135,2009,TA09-204A ,Adobe Flash Vulnerability Affects Flash Player and Other Adobe Products
+136,2009,TA09-195A ,Microsoft Updates for Multiple Vulnerabilities
+137,2009,TA09-187A ,Microsoft Video ActiveX Control Vulnerability
+138,2009,TA09-161A ,Adobe Acrobat and Reader Vulnerabilities
+139,2009,TA09-160A ,Microsoft Updates for Multiple Vulnerabilities
+140,2009,TA09-133B ,Adobe Reader and Acrobat JavaScript Vulnerabilities
+141,2009,TA09-133A ,Apple Updates for Multiple Vulnerabilities
+142,2009,TA09-132A ,Microsoft PowerPoint Multiple Vulnerabilities
+143,2009,TA09-105A ,Oracle Updates for Multiple Vulnerabilities
+144,2009,TA09-104A ,Microsoft Updates for Multiple Vulnerabilities
+145,2009,TA09-088A ,Conficker Worm Targets Microsoft Windows Systems
+146,2009,TA09-069A ,Microsoft Updates for Multiple Vulnerabilities
+147,2009,TA09-051A ,Adobe Acrobat and Reader Vulnerability
+148,2009,TA09-041A ,Microsoft Updates for Multiple Vulnerabilities
+149,2009,TA09-022A ,Apple QuickTime Updates for Multiple Vulnerabilities
+150,2009,TA09-020A ,Microsoft Windows Does Not Disable AutoRun Properly
+151,2009,TA09-015A ,Oracle Updates for Multiple Vulnerabilities
+152,2009,TA09-013A ,Microsoft Updates for Multiple SMB Protocol Vulnerabilities
+153,2010,TA10-348A ,Microsoft Updates for Multiple Vulnerabilities
+154,2010,TA10-313A ,Microsoft Updates for Multiple Vulnerabilities
+155,2010,TA10-287A ,Oracle Updates for Multiple Vulnerabilities
+156,2010,TA10-285A ,Microsoft Updates for Multiple Vulnerabilities
+157,2010,TA10-279A ,Adobe Reader and Acrobat Affected by Multiple Vulnerabilities
+158,2010,TA10-263A ,Adobe Flash Vulnerabilities
+159,2010,TA10-257A ,Microsoft Updates for Multiple Vulnerabilities
+160,2010,TA10-238A ,Microsoft Windows Insecurely Loads Dynamic Libraries
+161,2010,TA10-231A ,Adobe Reader and Acrobat Vulnerabilities
+162,2010,TA10-223A ,Adobe Flash and AIR Vulnerabilities
+163,2010,TA10-222A ,Microsoft Updates for Multiple Vulnerabilities
+164,2010,TA10-194B ,Oracle Updates for Multiple Vulnerabilities
+165,2010,TA10-194A ,Microsoft Updates for Multiple Vulnerabilities
+166,2010,TA10-162A ,Adobe Flash and AIR Vulnerabilities
+167,2010,TA10-159B ,Microsoft Updates for Multiple Vulnerabilities
+168,2010,TA10-159A ,"Adobe Flash, Reader, and Acrobat Vulnerability"
+169,2010,TA10-131A ,Microsoft Updates for Multiple Vulnerabilities
+170,2010,TA10-103C ,Adobe Reader and Acrobat Vulnerabilities
+171,2010,TA10-103B ,Oracle Updates for Multiple Vulnerabilities
+172,2010,TA10-089A ,Microsoft Internet Explorer Vulnerabilities
+173,2010,TA10-068A ,Microsoft Updates for Multiple Vulnerabilities
+174,2010,TA10-040A ,Microsoft Updates for Multiple Vulnerabilities
+175,2010,TA10-021A ,Microsoft Internet Explorer Vulnerabilities
+176,2010,TA10-013A ,Adobe Reader and Acrobat Vulnerabilities
+177,2010,TA10-012B ,Microsoft Windows EOT Font and Adobe Flash Player 6 Vulnerabilities
+178,2010,TA10-012A ,Oracle Updates for Multiple Vulnerabilities
+179,2011,TA11-350A ,Adobe Updates for Multiple Vulnerabilities
+180,2011,TA11-347A ,Microsoft Updates for Multiple Vulnerabilities
+181,2011,TA11-312A ,Microsoft Updates for Multiple Vulnerabilities
+182,2011,TA11-286A ,Apple Updates for Multiple Vulnerabilities
+183,2011,TA11-284A ,Microsoft Updates for Multiple Vulnerabilities
+184,2011,TA11-256A ,Microsoft Updates for Multiple Vulnerabilities
+185,2011,TA11-222A ,Adobe Updates for Multiple Vulnerabilities
+186,2011,TA11-221A ,Microsoft Updates for Multiple Vulnerabilities
+187,2011,TA11-201A ,Oracle Updates for Multiple Vulnerabilities
+188,2011,TA11-200A ,Security Recommendations to Prevent Cyber Intrusions
+189,2011,TA11-193A ,Microsoft Updates for Multiple Vulnerabilities
+190,2011,TA11-166A ,Adobe Updates for Multiple Vulnerabilities
+191,2011,TA11-165A ,Microsoft Updates for Multiple Vulnerabilities
+192,2011,TA11-130A ,Microsoft Updates for Multiple Vulnerabilities
+193,2011,TA11-102A ,Microsoft Updates for Multiple Vulnerabilities
+194,2011,TA11-067A ,Microsoft Updates for Multiple Vulnerabilities
+195,2011,TA11-039A ,Microsoft Updates for Multiple Vulnerabilities
+196,2011,TA11-011A ,Microsoft Updates for Multiple Vulnerabilities
+197,2012,TA12-346A ,Microsoft Updates for Multiple Vulnerabilities
+198,2012,TA12-318A ,Microsoft Updates for Multiple Vulnerabilities
+199,2012,TA12-283A ,Microsoft Updates for Multiple Vulnerabilities
+200,2012,TA12-265A ,Microsoft Releases Patch for Internet Explorer Exploit
+201,2012,TA12-262A ,Microsoft Security Advisory for Internet Explorer Exploit
+202,2012,TA12-255A ,Microsoft Updates for Multiple Vulnerabilities
+203,2012,TA12-251A ,Microsoft Update For Minimum Certificate Key Length
+204,2012,TA12-240A ,Oracle Java 7 Security Manager Bypass Vulnerability
+205,2012,TA12-227A ,Microsoft Updates for Multiple Vulnerabilities
+206,2012,TA12-192A ,Microsoft Updates for Multiple Vulnerabilities
+207,2012,TA12-174A ,Microsoft XML Core Services Attack Activity
+208,2012,TA12-164A ,Microsoft Updates for Multiple Vulnerabilities
+209,2012,TA12-129A ,Microsoft Updates for Multiple Vulnerabilities
+210,2012,TA12-101B ,Adobe Reader and Acrobat Security Updates and Architectural Improvements
+211,2012,TA12-101A ,Microsoft Updates for Multiple Vulnerabilities
+212,2012,TA12-073A ,Microsoft Updates for Multiple Vulnerabilities
+213,2012,TA12-045A ,Microsoft Updates for Multiple Vulnerabilities
+214,2012,TA12-024A ,"""Anonymous"" DDoS Activity"
+215,2012,TA12-010A ,Microsoft Updates for Multiple Vulnerabilities
+216,2012,TA12-006A ,Wi-Fi Protected Setup (WPS) Vulnerable to Brute-Force Attack
+217,2013,TA13-317A ,Microsoft Updates for Multiple Vulnerabilities
+218,2013,TA13-309A ,CryptoLocker Ransomware Infections
+219,2013,TA13-288A ,Microsoft Updates for Multiple Vulnerabilities
+220,2013,TA13-253A ,Microsoft Updates for Multiple Vulnerabilities
+221,2013,TA13-225A ,Microsoft Updates for Multiple Vulnerabilities
+222,2013,TA13-207A ,Risks of Using the Intelligent Platform Management Interface (IPMI)
+223,2013,TA13-193A ,Exploit Tool Targets Vulnerabilities in McAfee ePolicy Orchestrator (ePO)
+224,2013,TA13-190A ,Microsoft Updates for Multiple Vulnerabilities
+225,2013,TA13-175A ,Risks of Default Passwords on the Internet
+226,2013,TA13-169A ,Oracle Releases Updates for Javadoc and Other Java SE Vulnerabilities
+227,2013,TA13-168A ,Microsoft Updates for Multiple Vulnerabilities
+228,2013,TA13-141A ,"Washington, DC Radio Station Web Site Compromises"
+229,2013,TA13-134A ,Microsoft Updates for Multiple Vulnerabilities
+230,2013,TA13-107A ,Oracle Has Released Multiple Updates for Java SE
+231,2013,TA13-100A ,Microsoft Updates for Multiple Vulnerabilities
+232,2013,TA13-088A ,DNS Amplification Attacks
+233,2013,TA13-071A ,Microsoft Updates for Multiple Vulnerabilities
+234,2013,TA13-064A ,Oracle Java Contains Multiple Vulnerabilities
+235,2013,TA13-051A ,Oracle Java Multiple Vulnerabilities
+236,2013,TA13-043B ,Microsoft Updates for Multiple Vulnerabilities
+237,2013,TA13-043A ,Adobe Updates for Multiple Vulnerabilities
+238,2013,TA13-032A ,Oracle Java Multiple Vulnerabilities
+239,2013,TA13-024A ,Content Management Systems Security and Associated Risks
+240,2013,TA13-015A ,Microsoft Releases Update for Internet Explorer Vulnerability CVE-2012-4792
+241,2013,TA13-010A ,Oracle Java 7 Security Manager Bypass Vulnerability
+242,2013,TA13-008A ,Microsoft Updates for Multiple Vulnerabilities
+243,2014,TA14-353A ,Targeted Destructive Malware
+244,2014,TA14-329A ,Regin Malware
+245,2014,TA14-323A ,Microsoft Windows Kerberos KDC Remote Privilege Escalation Vulnerability
+246,2014,TA14-318B ,Microsoft Windows OLE Automation Array Remote Code Execution Vulnerability
+247,2014,TA14-318A ,Microsoft Secure Channel (Schannel) Vulnerability (CVE-2014-6321)
+248,2014,TA14-317A ,Apple iOS 'Masque Attack' Technique
+249,2014,TA14-310A ,Microsoft Ending Support for Windows Server 2003 Operating System
+250,2014,TA14-300A ,Phishing Campaign Linked with “Dyre” Banking Malware
+251,2014,TA14-295A ,Crypto Ransomware
+252,2014,TA14-290A ,SSL 3.0 Protocol Vulnerability and POODLE Attack
+253,2014,TA14-268A ,"GNU Bourne-Again Shell (Bash) ‘Shellshock’ Vulnerability (CVE-2014-6271, CVE-2014-7169, CVE-2014-7186, CVE-2014-7187, CVE-2014-6277 and CVE 2014-6278)"
+254,2014,TA14-212A ,Backoff Point-of-Sale Malware
+255,2014,TA14-150A ,GameOver Zeus P2P Malware
+256,2014,TA14-098A ,OpenSSL 'Heartbleed' vulnerability (CVE-2014-0160)
+257,2014,TA14-069A ,Microsoft Ending Support for Windows XP and Office 2003
+258,2014,TA14-017A ,UDP-Based Amplification Attacks
+259,2014,TA14-013A ,NTP Amplification Attacks Using CVE-2013-5211
+260,2014,TA14-002A ,Malware Targeting Point of Sale Systems
+261,2015,TA15-337A ,Dorkbot
+262,2015,TA15-314A ,Compromised Web Servers and Web Shells - Threat Awareness and Guidance
+263,2015,TA15-286A ,Dridex P2P Malware
+264,2015,TA15-240A ,Controlling Outbound DNS Access
+265,2015,TA15-213A ,Recent Email Phishing Campaigns – Mitigation and Response Recommendations
+266,2015,TA15-195A ,Adobe Flash and Microsoft Windows Vulnerabilities
+267,2015,TA15-120A ,Securing End-to-End Communications
+268,2015,TA15-119A ,Top 30 Targeted High Risk Vulnerabilities
+269,2015,TA15-105A ,Simda Botnet
+270,2015,TA15-103A ,DNS Zone Transfer AXFR Requests May Leak Domain Information
+271,2015,TA15-098A ,AAEH
+272,2015,TA15-051A ,Lenovo Superfish Adware Vulnerable to HTTPS Spoofing
+273,2016,TA16-336A ,Avalanche (crimeware-as-a-service infrastructure)
+274,2016,TA16-288A ,Heightened DDoS Threat Posed by Mirai and Other Botnets
+275,2016,TA16-250A ,The Increasing Threat to Network Infrastructure Devices and Recommended Mitigations
+276,2016,TA16-187A ,Symantec and Norton Security Products Contain Critical Vulnerabilities
+277,2016,TA16-144A ,WPAD Name Collision Vulnerability
+278,2016,TA16-132A ,Exploitation of SAP Business Applications
+279,2016,TA16-105A ,Apple Ends Support for QuickTime for Windows; New Vulnerabilities Announced
+280,2016,TA16-091A ,Ransomware and Recent Variants
+281,2017,TA17-318B ,HIDDEN COBRA – North Korean Trojan
+282,2017,TA17-318A ,HIDDEN COBRA – North Korean Remote Administration Tool
+283,2017,TA17-293A ,Advanced Persistent Threat Activity Targeting Energy and Other Critical Infrastructure Sectors
+284,2017,TA17-181A ,Petya Ransomware
+285,2017,TA17-164A ,HIDDEN COBRA – North Korea’s DDoS Botnet Infrastructure
+286,2017,TA17-163A ,CrashOverride Malware
+287,2017,TA17-156A ,Reducing the Risk of SNMP Abuse
+288,2017,TA17-132A ,Indicators Associated With WannaCry Ransomware
+289,2017,TA17-117A ,Intrusions Affecting Multiple Victims Across Multiple Sectors
+290,2017,TA17-075A ,HTTPS Interception Weakens TLS Security
+291,2018,AA18-337A ,SamSam Ransomware
+292,2018,TA18-331A ,3ve – Major Online Ad Fraud Operation
+293,2018,AA18-284A ,Publicly Available Tools Seen in Cyber Incidents Worldwide
+294,2018,TA18-276B ,Advanced Persistent Threat Activity Exploiting Managed Service Providers
+295,2018,TA18-276A ,Using Rigorous Credential Control to Mitigate Trusted Network Exploitation
+296,2018,TA18-275A ,HIDDEN COBRA – FASTCash Campaign
+297,2018,TA18-201A ,Emotet Malware
+298,2018,TA18-149A ,HIDDEN COBRA – Joanap Backdoor Trojan and Brambul Server Message Block Worm
+299,2018,TA18-145A ,Cyber Actors Target Home and Office Routers and Networked Devices Worldwide
+300,2018,TA18-141A ,Side-Channel Vulnerability Variants 3a and 4
+301,2018,TA18-106A ,Russian State-Sponsored Cyber Actors Targeting Network Infrastructure Devices
+302,2018,TA18-086A ,Brute Force Attacks Conducted by Cyber Actors
+303,2018,TA18-074A ,Russian Government Cyber Activity Targeting Energy and Other Critical Infrastructure Sectors
+304,2018,TA18-004A ,Meltdown and Spectre Side-Channel Vulnerability Guidance
+305,2019,AA19-339A ,Dridex Malware
+306,2019,AA19-290A ,Microsoft Ending Support for Windows 7 and Windows Server 2008 R2
+307,2019,AA19-168A ,Microsoft Operating Systems BlueKeep Vulnerability
+308,2019,AA19-122A ,New Exploits for Unsecure SAP Systems
+309,2019,AA19-024A ,DNS Infrastructure Hijacking Campaign
+310,2020,AA20-245A ,Technical Approaches to Uncovering and Remediating Malicious Activity
+311,2020,AA20-239A ,FASTCash 2.0
+312,2020,AA20-227A ,Phishing Emails Used to Deploy KONNI Malware
+313,2020,AA20-225A ,Malicious Cyber Actor Spoofing COVID-19 Loan Relief Webpage via Phishing Emails
+314,2020,AA20-209A ,Potential Legacy Risk from Malware Targeting QNAP NAS Devices
+315,2020,AA20-206A ,Threat Actor Exploitation of F5 BIG-IP CVE-2020-5902
+316,2020,AA20-205A ,NSA and CISA Recommend Immediate Actions to Reduce Exposure Across Operational Technologies and Control Systems
+317,2020,AA20-198A ,Malicious Cyber Actor Use of Network Tunneling and Spoofing to Obfuscate Geolocation
+318,2020,AA20-195A ,Critical Vulnerability in SAP NetWeaver AS Java
+319,2020,AA20-183A ,Defending Against Malicious Cyber Activity Originating from Tor
+320,2020,AA20-182A ,EINSTEIN Data Trends – 30-day Lookback
+321,2020,AA20-133A ,Top 10 Routinely Exploited Vulnerabilities
+322,2020,AA20-126A ,APT Groups Target Healthcare and Essential Services
+323,2020,AA20-120A ,Microsoft Office 365 Security Recommendations
+324,2020,AA20-107A ,Continued Threat Actor Exploitation Post Pulse Secure VPN Patching
+325,2020,AA20-106A ,Guidance on the North Korean Cyber Threat
+326,2020,AA20-099A ,COVID-19 Exploited by Malicious Cyber Actors
+327,2020,AA20-073A ,Enterprise VPN Security
+328,2020,AA20-049A ,Ransomware Impacting Pipeline Operations
+329,2020,AA20-031A ,Detecting Citrix CVE-2019-19781
+330,2020,AA20-020A ,"Critical Vulnerability in Citrix Application Delivery Controller, Gateway, and SD-WAN WANOP"
+331,2020,AA20-014A ,Critical Vulnerabilities in Microsoft Windows Operating Systems
+332,2020,AA20-010A ,Continued Exploitation of Pulse Secure VPN Vulnerability
+333,2020,AA20-006A ,Potential for Iranian Cyber Response to U.S. Military Strike in Baghdad
