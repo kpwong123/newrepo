@@ -49,7 +49,7 @@ print(result)
 #     vector 2 ~ selected rows (if 2 vectors)
 #     alternative = "two.sided",
 #     mu = 0,
-#     paired = TRUE (if 2 vectors)/FALSE (if only 1 vector),
+#     paired = FALSE,
 #     exact = NULL,
 #     correct = TRUE,
 #     conf.int = FALSE
