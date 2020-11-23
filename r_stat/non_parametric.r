@@ -26,7 +26,7 @@ wilcox.test(dose.lab1, dose.lab2, paired = TRUE, exact = FALSE)
 #     vector 2 (if paired)/ y = NULL (if not paired),
 #     mu = 0,
 #     paired = TRUE (if paired)/FALSE (if not paired),
-#     exact = NULL,
+#     exact = NULL (if not exact)/TRUE (if exact, cannot have ties),
 #     correct = TRUE,
 #     conf.int = FALSE
 # )
